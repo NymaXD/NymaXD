@@ -19,7 +19,7 @@ Actualmente estoy desarrollando proyectos backend con Python y Flask, utilizando
 
 **SolarO Auth API**: API para una plataforma de monitoreo de consumo energético y aprendizaje sobre energía solar. Construida con Flask, PostgreSQL y JWT, con refresh tokens y recuperación de contraseña, y consumida por una app Flutter.
 *Authentication API for a solar energy consumption monitoring and learning platform. Built with Flask, PostgreSQL and JWT, with refresh tokens and password recovery, consumed by a Flutter app.*
-🔗 [Repositorio](https://github.com/NymaXD/SolarO) · [Contrato de API](https://github.com/NymaXD/SolarO/docs/api-contract.md)
+🔗 [Repositorio](https://github.com/NymaXD/SolarO/tree/Backend) · [Contrato de API](https://github.com/NymaXD/SolarO/blob/Backend/docs/api-contract.md)
 
 **Objetos Perdidos API**: API REST en Flask para registrar objetos perdidos y encontrados, con búsqueda de coincidencias y seguimiento de recuperación. Separa los endpoints (`app.py`) de la lógica de negocio (`service.py`).
 *REST API in Flask for registering lost and found items, with match search and recovery tracking. Endpoints live in `app.py` and business logic in `service.py`.*
@@ -27,7 +27,6 @@ Actualmente estoy desarrollando proyectos backend con Python y Flask, utilizando
 
 **Agropilot**: juego 2D de granjas y exploración desarrollado en Unity con generación procedural del mundo, cultivos, pesca, misiones y un componente educativo sobre agricultura. Desarrollado en equipo, con arquitectura modular y un diccionario de tiles como fuente de verdad.
 *2D farming and exploration game built in Unity, with procedural world generation, crops, fishing, quests and an educational focus on agriculture. Developed as a team, with modular architecture and a tile dictionary as the source of truth.*
-🔗 [Repositorio](https://github.com/NymaXD/Agropilot)
 
 ## 🤝 Contacto · Contact
 
